@@ -3,6 +3,6 @@ git remote set-url origin https://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@githu
 pause
 
 git add . 
-git commit -m "first upload"
+git commit -m "hello upload"
 git push
 pause

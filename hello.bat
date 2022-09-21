@@ -1,5 +1,5 @@
 @echo off
-git remote set-url origin https://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@github.com/johnnyyespapa21/CIT142F.git
+git remote set-url origin https://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@github.com/johnnyyespapa21/CIT142F.git
 pause
 
 git add . 
